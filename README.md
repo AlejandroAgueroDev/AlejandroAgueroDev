@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marcelo Alejandro Agüero</h1>
 <h3 align="center">A passionate frontend developer from Tucumán - Argentina</h3>
-<img src="https://drive.google.com/file/d/1xhgpf6Xyf8RrxG4ggGVMFwc1B1985vFz/view?usp=sharing" alt="image" />
+
+<p align="center">
+  <img src="https://drive.google.com/file/d/1xhgpf6Xyf8RrxG4ggGVMFwc1B1985vFz/view?usp=sharing" alt="animated-image">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandroaguerodev&label=Profile%20views&color=0e75b6&style=flat" alt="alejandroaguerodev" /> </p>
 
