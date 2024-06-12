@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alejandroaguerodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandroaguerodev" height="30" width="40" /></a>
-<a href="https://instagram.com/alejandro_.aguero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alejandro_.aguero" height="30" width="40" /></a>
-<a href="https://discord.gg/alejandroaguerodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alejandroaguerodev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alejandroaguerodev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandroaguerodev" height="30" width="40" /></a>
+<a href="https://instagram.com/alejandro_.aguero" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alejandro_.aguero" height="30" width="40" /></a>
+<a href="https://discord.gg/alejandroaguerodev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alejandroaguerodev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
