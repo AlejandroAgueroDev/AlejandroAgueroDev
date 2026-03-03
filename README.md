@@ -25,3 +25,12 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alejandroaguerodev&" alt="alejandroaguerodev" /></p>
+
+<h3 align="center">🐍 My Contributions Snake</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alejandroaguerodev/alejandroaguerodev/output/github-snake-dark.svg" />
+    <img alt="github snake" src="https://raw.githubusercontent.com/alejandroaguerodev/alejandroaguerodev/output/github-snake.svg" />
+  </picture>
+</p>
