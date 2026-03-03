@@ -3,8 +3,6 @@
 
 ![MasterHead](https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandroaguerodev&label=Profile%20views&color=0e75b6&style=flat" alt="alejandroaguerodev" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alejandroaguerodev" alt="alejandroaguerodev" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://alejandro-portfolio.vercel.app/](https://alejandro-portfolio.vercel.app/)
