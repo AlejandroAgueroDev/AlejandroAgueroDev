@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&width=600&lines=Hi+👋+I'm+Marcelo+Agüero;Frontend+Developer;JavaScript+%7C+React+%7C+Node.js;Always+learning+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&width=600&lines=Hi+👋+I'm+Alejandro+Agüero;Frontend+Developer;JavaScript+%7C+React+%7C+Node.js;Always+learning+new+things!)](https://git.io/typing-svg)
 
 <h3>A passionate frontend developer from Tucumán - Argentina 🇦🇷 🖥️🤓</h3>
 
